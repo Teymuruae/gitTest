@@ -7,3 +7,5 @@ settings.gradle
 build.gradle
 gradle
 /src/test/resources/
+src/test/resources/test.properties
+Kukue.java
