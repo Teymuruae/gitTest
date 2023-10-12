@@ -1,6 +1,6 @@
 public class Glav {
 
     public static void main(String[] args) {
-        String froGlav = "rugaga gggg";
+        String froGlav = "rugaga remote";
     }
 }
