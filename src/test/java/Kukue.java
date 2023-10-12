@@ -1,4 +1,4 @@
 public class Kukue {
 
-    String mu = "mumud";
+    String mu = "mumud from dev";
 }
